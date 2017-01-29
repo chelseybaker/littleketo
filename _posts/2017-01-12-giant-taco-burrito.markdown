@@ -5,7 +5,7 @@ date:   2017-01-17 16:16:01 -0600
 categories: keto
 ---
 
-![Keto Taco]({{ site.url }}/images/posts/keto-taco.jpg)
+![Keto Taco]({{ site.url }}/littleketo/images/posts/keto-taco.jpg)
 
 A giant keto taco is all the ingredients of a supreme taco in a low carb burrito tortilla!
 This makes four large servings because of the tortillas size. I've used a head of lettuce to make lettuce boats instead of the tortilla to lower the calories, but that'll be another recipe!
