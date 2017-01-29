@@ -1,69 +1,51 @@
 ---
 layout: post
-title:  "Cheesecakes"
-date:   2017-01-29 17:31:00 -0600
+title:  "Giant Keto Taco"
+date:   2017-01-17 16:16:01 -0600
 categories: keto
-image-path: /images/posts/2017-01-29/
 ---
 
-This is pretty much my favorite thing to make (and eat) on the keto diet. I always have some in the fridge 😬
+![Keto Taco]({{ site.url }}/images/posts/keto-taco.jpg)
 
-![Keto Cheesecake Ingredients]({{ site.url }}{{ page.image-path }}ingredients.jpeg)
+A giant keto taco is all the ingredients of a supreme taco in a low carb burrito tortilla!
+This makes four large servings because of the tortillas size. I've used a head of lettuce to make lettuce boats instead of the tortilla to lower the calories, but that'll be another recipe!
 
-|**Prep**|30 minutes|
-|**Cook time**| 15-17 minutes + cooling + refrigeration|
-|**Total time**| 10 hours from start to finish|
-
-
-|**Total kCal (g)**|**Total Fat (g)**|**Total Protein (g)**|**Total Net Carb (g)**|
-|204.58|25.17|8.33|1.08|
-||72.77%|24.10%|3.13%|
-
-
-<br>
+There is more protein than fat in this because of the ground turkey. In the future I'll probably switch to a fattier meat.
 
 # Ingredients
 
-For the crust
-* 3/4 cup almond flour
-* 2 tbs butter
-* (Optional) 1 tsp brown sugar
-
-For the cheesecake
-* 2 8oz packages of cream cheese
-* 2 eggs
-* 1/2 cup stevia sweetener
-* 1 tsp vanilla extract
-* (Optional) 1 packaged flavored sugar free getlatin (I use strawberry)
-
+* 1.5 lbs ground turkey
+* 1 and 1/2 packets Ortega Taco Seasoning
+* 12 ounces Colby Jack cheese, shredded (I prefer to get blocks and shred it myself)
+* 2 Roma tomatoes
+* 4 tbs Daisy sour cream
+* 4 Mission Carb Balance Whole Wheat Burrito Tortillas
+ 
 
 # Directions
 
-Take your cream cheese and eggs out of the fridge about 2 hours or so before you start to make these! Your ingredients should be at room temperature, otherwise they will not blend well
+Cook the turkey according to the directions on the seasoning packet
 
-Pre heat oven to 350 degrees
+Cut up lettuce, dice the tomatoes, and shred the cheese while your meat cooks
 
-Line a muffin pan with 12 paper liners
+In a sauté pan big enough to fit your tortilla, warm one side of it on medium heat
 
-Melt butter and mix with almond flour and brown sugar until crumbly.
+Remove tortilla and place the warmed side up on a plate
 
-![Crumbly crust]({{ site.url }}{{ page.image-path }}crumbled-crust.jpeg)
+Layer shredded cheese and then meat, lettuce, sour cream, a taco sauce, or any other ingredients you might like
 
-Spoon into the bottoms of the liner and flatten. I find it's easier to dump a small spoonful into each liner and press them after so I can eyeball they all have roughly the same amount.
+Carefully place the tortilla with toppings into the pan, leaving it open (or, if you can, wrap it into a burrito style and place folded side down)
 
-![Crust in liners]({{ site.url }}{{ page.image-path }}crust-in-liners.jpeg)
+Let the cheese melt until desired, remove, fold, and eat!
 
-Put the muffin pan with crusts in the oven for about 7-9 minutes, or until they've started to brown
+# Nutrition
 
-Beat cream cheese, eggs, sweetener, and vanilla extract together in a bowl with a hand mixer on medium speed until smooth. This will take longer if your cream cheese isn't softened enough.
+For a serving with 1/4th of all ingredients:
 
-**If you are adding gelatin flavoring**, add in a teaspoon at a time and blend with the mixer until you get your desired flavor (remember, you can always add more, not less 🙂 ). I usually like to make 6 regular cheesecakes and 6 flavored cheesecakes, so I will fill 6 of the cups with cheesecake mix, and then add in about 2 teaspoons of gelatin and blend with the hand mixer, then fill the remaining cups.
+Calories: 890kcal
 
-![Strawberry filling]({{ site.url }}{{ page.image-path }}strawberry-cream-cheese.jpeg)
+Fat: 53.25g
 
-![Pre baked filling]({{ site.url }}{{ page.image-path }}pre-baked.jpeg)
+Protein 73.25g
 
-
-Bake until your cheesecake is set in the middle, about 15-17 minutes. It's "set" when it is slightly puffed and the center should be a little shiny and ever so slightly jiggly. If the center doesn't shake, or especially if it cracked, it's over cooked (I've done this before, and they're still delicious, just not as soft in the center).
-
-Bring the cheesecakes out of the oven and let cool until room temperature, then refrigerate overnight. You'll probably want to test one for breakfast, just to make sure they're good before serving 😉
+Net Carb: 6.625g
