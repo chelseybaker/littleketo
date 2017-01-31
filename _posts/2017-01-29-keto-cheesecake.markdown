@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cheesecakes"
+title:  "Keto Cheesecakes"
 date:   2017-01-29 11:31:00 -0600
 categories: keto
 image-path: /littleketo/images/posts/2017-01-29
