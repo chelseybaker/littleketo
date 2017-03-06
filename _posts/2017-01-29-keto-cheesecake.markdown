@@ -4,11 +4,10 @@ title:  "Keto Cheesecakes"
 date:   2017-01-29 11:31:00 -0600
 categories: keto
 image-path: /littleketo/images/posts/2017-01-29
+img: posts/2017-01-29/ingredients.jpeg
 ---
 
 This is pretty much my favorite thing to make (and eat) on the keto diet. I always have some in the fridge 😬
-
-![Keto Cheesecake Ingredients]({{ site.url }}/{{ page.image-path }}/ingredients.jpeg)
 
 |**Prep**|30 minutes|
 |**Cook time**| 15-17 minutes + cooling + refrigeration|
