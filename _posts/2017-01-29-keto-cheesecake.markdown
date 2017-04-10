@@ -46,11 +46,11 @@ Line a muffin pan with 12 paper liners
 
 Melt butter and mix with almond flour and brown sugar until crumbly.
 
-![Crumbly crust]({{ site.url }}/{{ page.image-path }}/crumbled-crust.jpeg)
+![Crumbly crust]({{ page.image-path }}/crumbled-crust.jpeg)
 
 Spoon into the bottoms of the liner and flatten. I find it's easier to dump a small spoonful into each liner and press them after so I can eyeball they all have roughly the same amount.
 
-![Crust in liners]({{ site.url }}/{{ page.image-path }}/crust-in-liners.jpeg)
+![Crust in liners]({ page.image-path }}/crust-in-liners.jpeg)
 
 Put the muffin pan with crusts in the oven for about 7-9 minutes, or until they've started to brown
 
@@ -58,9 +58,9 @@ Beat cream cheese, eggs, sweetener, and vanilla extract together in a bowl with 
 
 **If you are adding gelatin flavoring**, add in a teaspoon at a time and blend with the mixer until you get your desired flavor (remember, you can always add more, not less 🙂 ). I usually like to make 6 regular cheesecakes and 6 flavored cheesecakes, so I will fill 6 of the cups with cheesecake mix, and then add in about 2 teaspoons of gelatin and blend with the hand mixer, then fill the remaining cups.
 
-![Strawberry filling]({{ site.url }}/{{ page.image-path }}/strawberry-cream-cheese.jpeg)
+![Strawberry filling]({{ page.image-path }}/strawberry-cream-cheese.jpeg)
 
-![Pre baked filling]({{ site.url }}/{{ page.image-path }}/pre-baked.jpeg)
+![Pre baked filling]({{ page.image-path }}/pre-baked.jpeg)
 
 
 Bake until your cheesecake is set in the middle, about 15-17 minutes. It's "set" when it is slightly puffed and the center should be a little shiny and ever so slightly jiggly. If the center doesn't shake, or especially if it cracked, it's over cooked (I've done this before, and they're still delicious, just not as soft in the center).
