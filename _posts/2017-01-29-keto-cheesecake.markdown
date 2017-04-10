@@ -3,7 +3,7 @@ layout: post
 title:  "Keto Cheesecakes"
 date:   2017-01-29 11:31:00 -0600
 categories: keto
-image-path: /littleketo/images/posts/2017-01-29
+image-path: /images/posts/2017-01-29
 img: posts/2017-01-29/ingredients.jpeg
 ---
 
@@ -46,7 +46,7 @@ Line a muffin pan with 12 paper liners
 
 Melt butter and mix with almond flour and brown sugar until crumbly.
 
-![Crumbly crust]({{ site.url }}{{ page.image-path }}/crumbled-crust.jpeg)
+![Crumbly crust]({{ site.url }}/{{ page.image-path }}/crumbled-crust.jpeg)
 
 Spoon into the bottoms of the liner and flatten. I find it's easier to dump a small spoonful into each liner and press them after so I can eyeball they all have roughly the same amount.
 
