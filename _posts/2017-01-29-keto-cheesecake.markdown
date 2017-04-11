@@ -50,7 +50,7 @@ Melt butter and mix with almond flour and brown sugar until crumbly.
 
 Spoon into the bottoms of the liner and flatten. I find it's easier to dump a small spoonful into each liner and press them after so I can eyeball they all have roughly the same amount.
 
-![Crust in liners]({ page.image-path }}/crust-in-liners.jpeg)
+![Crust in liners]({{ page.image-path }}/crust-in-liners.jpeg)
 
 Put the muffin pan with crusts in the oven for about 7-9 minutes, or until they've started to brown
 
