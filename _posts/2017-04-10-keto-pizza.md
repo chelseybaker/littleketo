@@ -21,7 +21,12 @@ Total: 40ish minutes
 
 ### Nutrition 
 
-(Depends on your ingredients, but I'll post my calculation soon!)
+|                    | Grams | Ratio |
+| ------------------ | ----- | ------| 
+| **Total kCal**     | 0     | - |
+| **Total Fat**      | 0g    | 0% |
+| **Total Protein**  | 0g    | 0% |
+| **Total Net Carb** | 0g    | 0% |
 
 <br /><br />
 
@@ -30,7 +35,7 @@ Total: 40ish minutes
 * Parchment paper
 * 16oz low moisture mozzarella (I buy blocks and shred it myself!)
 * 3/4 cup almond flour
-* 2oz cream cheese
+* 3oz cream cheese
 * 2 eggs
 * Pizza sauce (be sure to check the amount of sugar!)
 * Toppings of your choice (I usually do pepperoni, bacon, chicken, and Italian sausage 🤤) 
@@ -41,9 +46,9 @@ Shred your mozzarella.
 
 Heat oven to 425°.
 
-In a microwave safe bowl, add 8oz shredded mozzarella and the cream cheese (cutting up the cream cheese helps!). Put it in the microwave for 60 seconds, then stir, then microwave for another 30 seconds and stir again. 
+In a microwave safe bowl, add 8oz shredded mozzarella and the cream cheese (cutting up the cream cheese helps!). Put it in the microwave for 60 seconds, then stir, then microwave for another 30 seconds and stir again. Make sure it's pretty melted and mix in the cream cheese into the melted mozz thorougly.  
 
-Add the almond flour, eggs, and mix by stirring and folding over (I use a spatula).
+Add the almond eggs, and mix, then the almond flour and mix by stirring and folding over (I use a spatula).
 
 ![Mixing the dough]( {{ page.image-path }}/mixing-dough.JPG)
 
