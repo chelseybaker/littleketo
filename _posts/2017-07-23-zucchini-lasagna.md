@@ -3,7 +3,7 @@ layout: post
 title:  "Zucchini Lasagna"
 date:   2017-07-23 16:45:00 -0600
 categories: keto
-img: posts/2017-03-12/finished.JPG
+img: posts/2017-07-23/finished.JPG
 ---
 
 Inspired by (but modified a bit!) from [the Skinny Taste recipe](http://www.skinnytaste.com/zucchini-lasagna/), this keto lasagna is delicious! It takes quite awhile to make but you could prep it the day before and cook the next day!
