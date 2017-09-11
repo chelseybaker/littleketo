@@ -45,13 +45,13 @@ Nutrition is calculated by dividing the total contents into 4
 * 12-15 ounces part-skim ricotta
 * 1/4 cup parmesean
 * 1 large egg
-* 16 oz shredded low moisture mozzarella cheese
+* 16 to 24 oz shredded low moisture mozzarella cheese (I tend to use 24, but I eat a bunch while I'm making it too 😳)
 
 The first two steps are taken directly from the Skinny Taste recipe: 
 
 * (From Skinny Taste) In a medium sauce pan, brown meat and season with salt. When cooked drain in colander to remove any fat.
 * (From Skinny Taste) Add olive oil to the pan and saute garlic and onions about 2 minutes. Return the meat to the pan, add tomatoes, basil, salt and pepper. Simmer on low for at least 30-40minutes, covered. Do not add extra water, the sauce should be thick.
-* Heat your oven to 250 degrees. Slice your zucchini with [a mandoline](https://www.amazon.com/dp/B0000632QE/ref=cm_sw_r_cp_dp_T2_C5qDzbG19CPJ4). Place a paper towel on a cookie tray and layer the zucchini slices. Add a little bit of salt to each layer, then cover with a paper towel and layer the next round of zucchini slices. Cook for 10 minutes, flip them over (careful, the paper towels can be quite warm when they're wet!), and cook for another 10 minutes. Soak up any leftover water
+* While your sauce is cooking, heat your oven to 250 degrees. Slice your zucchini with [a mandoline](https://www.amazon.com/dp/B0000632QE/ref=cm_sw_r_cp_dp_T2_C5qDzbG19CPJ4). Place a paper towel on a cookie tray and layer the zucchini slices. Add a little bit of salt to each layer, then cover with a paper towel and layer the next round of zucchini slices. Cook for 10-15 minutes, flip them over (careful, the paper towels can be quite warm when they're wet!), and cook for another 10-15 minutes. Soak up any leftover water
 * Preheat oven to 375 degrees
 * (From Skinny Taste) In a medium bowl mix ricotta cheese, parmesan cheese and egg. Stir well.
 * Layer your lasagna!
