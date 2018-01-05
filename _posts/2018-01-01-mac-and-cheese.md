@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  "Keto Mac and Cheese"
-date:   2018-01-01
+date:   2018-01-01 
 categories: keto
 img: posts/2018-01-01/finished.jpg
 ---
 
 Inspired by (but modified a bit!) from [the Skinny Taste recipe](https://www.skinnytaste.com/skinny-baked-broccoli-macaroni-and/). I love mac and cheese and am so happy I found a way to still have it. This meal is a _little_ higher in carbs than most keto meals since the pasta has 8 net carbs per serving (4 servings per bag), but it's fantastic comfort food with minimal guilt. 
-
+<!--
 ### Time
 
 Prep: X minutes
 
 Cook: 15-20 minutes
-
+-->
 <!-- 
 ### Nutrition 
 Nutrition is calculated by dividing the total contents into 4
