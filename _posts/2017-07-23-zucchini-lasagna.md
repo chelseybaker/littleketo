@@ -60,7 +60,7 @@ You should have 4 sets in the following order (so 16 total layers):
 
 1. Sauce
 2. Zucchini layer
-3. Cottage cheese mix
+3. Ricotta cheese mix
 4. Mozzarella cheese
 
 * Spray some foil with Pam and cover with foil and bake for 35 minutes. Uncover the foil and bake for another 25 minutes 
